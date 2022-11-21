@@ -1,7 +1,9 @@
+import Home from './pages/Home';
+
 function App() {
   return (
     <div>
-      <h1>Welcome</h1>
+      <Home></Home>
     </div>
   );
 }
