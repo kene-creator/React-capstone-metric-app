@@ -28,7 +28,7 @@ const Home = () => {
           <p className="text-xl text-white">746.4 million</p>
         </div>
       </div>
-      <div className="text-white bg-[#EC4C8A]">
+      <div className="text-white bg-[#DF4782]">
         <h3 className="ml-8">Stats by Country</h3>
       </div>
       <CountryList data={country} />
