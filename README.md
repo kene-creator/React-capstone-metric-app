@@ -11,7 +11,7 @@
 ## Live
 
 [live demo](https://sparkly-donut-d130ed.netlify.app/)
-[Visual Presentation](https://www.loom.com/share/9548ac9ea14d4508a2aeebd2b89b951b)
+[Visual Presentation](https://www.loom.com/share/e2af600c09364410acd662cca0a9ed0e)
 
 ## Getting Started
 
