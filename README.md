@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -142,7 +142,7 @@ If you like this project leave a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank microverse code reviewers for their suggestions and directions
-- - Hat tip to anyone whose code was used
+- Hat tip to anyone whose code was used
 - Creative Commom media
 - [Design idea by Nelson Sakwa](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
 - Data from [Restcountries-API](https://restcountries.com/)
