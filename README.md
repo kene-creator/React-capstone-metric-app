@@ -8,6 +8,11 @@
 
 - React and Redux
 
+## Live
+
+[live demo](https://sparkly-donut-d130ed.netlify.app/)
+[Visual Presentation](https://www.loom.com/share/9548ac9ea14d4508a2aeebd2b89b951b)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
